@@ -3,7 +3,7 @@ languageCode = 'en-us'
 title = 'Jiawen Huang'
 theme = 'introduction'
 
-baseURL                          = "http://example.com/"   # Your domain name. Must end with "/"
+baseURL                          = "https://jolly-pond-0fb177e0f.2.azurestaticapps.net/"   # Your domain name. Must end with "/"
 DefaultContentLanguage           = "en"                    # Default language for multilingual sites
 # disqusshortname                 = ""                     # https://gohugo.io/content-management/comments
 # googleAnalytics                 = ""                     # https://gohugo.io/templates/internal/#google-analytics
