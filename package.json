@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "build": "npx postcss css/main.css -o css/main.min.css && hugo --minify"
+    "build": "hugo --minify"
   },
   "keywords": [],
   "author": "",
