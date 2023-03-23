@@ -1,6 +1,6 @@
 ---
 title: "Memory and prediction in the 4-in-a-row game"
-weight: 1
+weight: 2
 resources:
     - src: 4iar_eyemap.png
       params:

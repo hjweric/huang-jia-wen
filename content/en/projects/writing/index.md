@@ -4,7 +4,7 @@ resources:
     - src: elephant_couch.png
       params:
           weight: -100
-weight: 2
+weight: 3
 ---
 Image generated with Stable diffusion based on connecting the word "elephant" with the locus "couch" from a participant's recall.
 
