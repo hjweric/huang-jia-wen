@@ -2,18 +2,18 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://example.com/projects/4-in-a-row/</loc>
+    <loc>https://jolly-pond-0fb177e0f.2.azurestaticapps.net/projects/4-in-a-row/</loc>
   </url><url>
-    <loc>http://example.com/projects/writing/</loc>
+    <loc>https://jolly-pond-0fb177e0f.2.azurestaticapps.net/projects/writing/</loc>
   </url><url>
-    <loc>http://example.com/projects/</loc>
+    <loc>https://jolly-pond-0fb177e0f.2.azurestaticapps.net/projects/</loc>
   </url><url>
-    <loc>http://example.com/home/</loc>
+    <loc>https://jolly-pond-0fb177e0f.2.azurestaticapps.net/home/</loc>
   </url><url>
-    <loc>http://example.com/</loc>
+    <loc>https://jolly-pond-0fb177e0f.2.azurestaticapps.net/</loc>
   </url><url>
-    <loc>http://example.com/series/</loc>
+    <loc>https://jolly-pond-0fb177e0f.2.azurestaticapps.net/series/</loc>
   </url><url>
-    <loc>http://example.com/tags/</loc>
+    <loc>https://jolly-pond-0fb177e0f.2.azurestaticapps.net/tags/</loc>
   </url>
 </urlset>
