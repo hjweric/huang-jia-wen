@@ -2,35 +2,35 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Jiawen Huang</title>
-    <link>www.huang-jiawen.com/</link>
+    <link>http://www.huang-jiawen.com/</link>
     <description>Recent content on Jiawen Huang</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="www.huang-jiawen.com/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="http://www.huang-jiawen.com/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Memory and prediction in the 4-in-a-row game</title>
-      <link>www.huang-jiawen.com/projects/4-in-a-row/</link>
+      <link>http://www.huang-jiawen.com/projects/4-in-a-row/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>www.huang-jiawen.com/projects/4-in-a-row/</guid>
+      <guid>http://www.huang-jiawen.com/projects/4-in-a-row/</guid>
       <description>Schema-based predictive eye-movements support sequential memory encoding When forming a memory of an experience that is unfolding over time, we can use our schematic knowledge about the world (constructed based on many prior episodes) to predict what will transpire. We developed a novel paradigm to study how the development of a complex schema influences predictive processes during perception and impacts sequential memory. Participants learned to play a novel board game (“4-in-a-row”) across six training sessions, and repeatedly performed a memory test in which they watched and recalled sequences of moves from the game.</description>
     </item>
     
     <item>
       <title>Neural representation of memory during Method of Loci</title>
-      <link>www.huang-jiawen.com/projects/writing/</link>
+      <link>http://www.huang-jiawen.com/projects/writing/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>www.huang-jiawen.com/projects/writing/</guid>
+      <guid>http://www.huang-jiawen.com/projects/writing/</guid>
       <description>Image generated with Stable diffusion based on connecting the word &amp;ldquo;elephant&amp;rdquo; with the locus &amp;ldquo;couch&amp;rdquo; from a participant&amp;rsquo;s recall.
 Neural representation of memory during Method of Loci In this ongoing study, we train a group of novices to learn the ancient technique called Method of Loci (aka. Memory Palace, Roman Room) and scan them 3 times over 4 weeks. Participants build a personal memory palace (a &amp;lsquo;cognitive map&amp;rsquo;) and come in to use it for remembering a list of words in fMRI scanner.</description>
     </item>
     
     <item>
       <title>Hi, I&#39;m Jiawen</title>
-      <link>www.huang-jiawen.com/home/</link>
+      <link>http://www.huang-jiawen.com/home/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>www.huang-jiawen.com/home/</guid>
+      <guid>http://www.huang-jiawen.com/home/</guid>
       <description>I study brains with games</description>
     </item>
     
