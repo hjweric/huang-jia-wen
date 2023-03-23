@@ -1,9 +1,9 @@
 #baseURL = 'hjweric.github.io'
 languageCode = 'en-us'
-title = 'Jiawen Huang'
 theme = 'introduction'
 
-baseURL                          = "https://jolly-pond-0fb177e0f.2.azurestaticapps.net/"   # Your domain name. Must end with "/"
+
+baseURL                          = "huang-jiawen"   # Your domain name. Must end with "/"
 DefaultContentLanguage           = "en"                    # Default language for multilingual sites
 # disqusshortname                 = ""                     # https://gohugo.io/content-management/comments
 # googleAnalytics                 = ""                     # https://gohugo.io/templates/internal/#google-analytics
@@ -20,7 +20,7 @@ DefaultContentLanguage           = "en"                    # Default language fo
     # customCSS                  = ["foo.css"]             # Include custom css files placed under assets/
     # customJS                   = ["foo.js"]              # Include custom JavaScript files placed under assets/
     # plausible                  = true                    # Use Plausible analytics (requires an account at Plausible.io)
-
+    # logo                         = '/images'
     # Configure the home page
     [params.home]
         introHeight              = "fullheight"            # Input either "medium" or "large" or "fullheight"
@@ -126,7 +126,7 @@ DefaultContentLanguage           = "en"                    # Default language fo
         languageCode     = "en-us"
         contentDir       = "content/en"
         weight           = 0
-        title            = "Introduction"
+        title            = "Jiawen Huang"
         [languages.en.params]
             description  = "Website Description"   # Max 160 characters show in search results
             # footerText   = ""                      # Text to override default footer text (markdown allowed)
