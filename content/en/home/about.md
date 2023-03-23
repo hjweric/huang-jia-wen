@@ -1,7 +1,6 @@
 ---
 title: "About"
-resources:
-    - src: profile.jpg
+image: "profile.jpg"
 weight: 8
 ---
 
