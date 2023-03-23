@@ -5,6 +5,7 @@ resources:
     - src: 4iar_eyemap.png
       params:
           weight: -100
+
 ---
 #### Schema-based predictive eye-movements support sequential memory encoding
 When forming a memory of an experience that is unfolding over time, we can use our schematic knowledge about the world (constructed based on many prior episodes) to predict what will transpire. We developed a novel paradigm to study how the development of a complex schema influences predictive processes during perception and impacts sequential memory. Participants learned to play a novel board game (“4-in-a-row”) across six training sessions, and repeatedly performed a memory test in which they watched and recalled sequences of moves from the game. We found that participants gradually became better at remembering sequences from the game as their schema developed, driven by improved accuracy for schema-consistent moves. Eye tracking revealed that increased predictive eye movements during encoding, which were most prevalent in expert players, were associated with better memory. Our results identify prediction as a mechanism by which schematic knowledge can improve episodic memory.  [[preprint]](https://psyarxiv.com/gej7q)
